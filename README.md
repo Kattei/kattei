@@ -1,5 +1,19 @@
 ### Hola 👋 Soy Kathe
-👉Desarrolladora Front End👈
+
+✨ Desarrolladora Front End ✨ 
+
+Soy una apasionada de las manualidades disfruto cada momento del proceso creativo
+
+que hace que cada pieza sea única y un reto constante por mejorar y aprender nuevas
+
+técnicas, esta misma pasión la he redescubierto al incorporarme al mundo de la
+
+programación, cada proyecto es único y tiene una y mil formas de llevarse a cabo, con
+
+cada proyecto puedo ver una nueva versión de mi llena de altibajos, dudas y confusiones
+
+por las que me esfuerzo en dar solución.
+
 <!--
 **Kattei/kattei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
